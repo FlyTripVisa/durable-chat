@@ -26,8 +26,8 @@
 	},
 	"r2_buckets": [
 		{
-			"binding": "MY_BUCKET",
-			"bucket_name": "your-bucket-name"
+			"binding": "mydata",
+			"bucket_name": "mydata"
 		}
 	],
 	"observability": {
